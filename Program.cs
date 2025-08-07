@@ -1,6 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿
 Console.WriteLine("Hello, World!");
 Console.WriteLine("What is your name?");
+// Read user input
 string? name = Console.ReadLine();
 if (!string.IsNullOrEmpty(name))
 {
@@ -8,5 +9,5 @@ if (!string.IsNullOrEmpty(name))
 }
 else
 {
-    Console.WriteLine("Hello, stranger! Are lost you should not be here.");
+    Console.WriteLine("Hello, stranger! Are lost ? You should not be here. Code is dangerous!");
 }
