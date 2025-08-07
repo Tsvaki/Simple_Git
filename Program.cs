@@ -21,7 +21,7 @@ internal class Program
         int y = 5;
         // Variables for string concatenation
         string A = "abcd", B = "efgh";
-        //TODO: Add some code to demonstrate basic arithmetic operations
+        Console.WriteLine("");
         Console.WriteLine($"Sum of {x} and {y} is: {x + y}");
         Console.WriteLine($"Concatenation of {A} and {B} is: {A + B}");
         Console.WriteLine($"BOMDAS {y} and {x} is: {x / y * x}");

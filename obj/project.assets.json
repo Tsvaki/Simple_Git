@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ronald Tsvaki\\OneDrive\\Documents\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\Ronald Tsvaki\\OneDrive\\Documents\\Application\\Simple_Git\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "C:\\Users\\Ronald Tsvaki\\OneDrive\\Documents\\Application\\Application.csproj",
+      "projectPath": "C:\\Users\\Ronald Tsvaki\\OneDrive\\Documents\\Application\\Simple_Git\\Application.csproj",
       "packagesPath": "C:\\Users\\Ronald Tsvaki\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ronald Tsvaki\\OneDrive\\Documents\\Application\\obj\\",
+      "outputPath": "C:\\Users\\Ronald Tsvaki\\OneDrive\\Documents\\Application\\Simple_Git\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ronald Tsvaki\\AppData\\Roaming\\NuGet\\NuGet.Config"
