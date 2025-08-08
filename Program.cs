@@ -3,6 +3,11 @@ internal class Program
 {
     private static void Main(string[] args)
     {
+        /// <summary> This is a simple console application that demonstrates basic input and output operations, arithmetic calculations, and string manipulations.</summary>
+        /// <remarks> It prompts the user for their name, performs some arithmetic operations, and displays the results.</remarks>
+        /// <author>Ronald Tsvaki</author>
+        /// <date>2023-10-01</date>
+        /// version>1.0</version>
         Console.WriteLine("Hello, World!");
         Console.WriteLine("What is your name?");
         // Read user input
@@ -31,5 +36,6 @@ internal class Program
         Console.WriteLine("-----Short Hand ------ ");
         Console.WriteLine($" {x} add one x++ =  {++x}");
         Console.WriteLine($" {y} add one y-- =  {--y}"); 
+        // Add XML comment to explain the purpose of the code
     }
 }

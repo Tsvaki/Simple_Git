@@ -28,3 +28,5 @@ C:\Users\Ronald Tsvaki\OneDrive\Documents\Application\Simple_Git\obj\Debug\net9.
 C:\Users\Ronald Tsvaki\OneDrive\Documents\Application\Simple_Git\obj\Debug\net9.0\Application.pdb
 C:\Users\Ronald Tsvaki\OneDrive\Documents\Application\Simple_Git\obj\Debug\net9.0\Application.genruntimeconfig.cache
 C:\Users\Ronald Tsvaki\OneDrive\Documents\Application\Simple_Git\obj\Debug\net9.0\ref\Application.dll
+C:\Users\Ronald Tsvaki\OneDrive\Documents\Application\Simple_Git\bin\Debug\net9.0\Application.xml
+C:\Users\Ronald Tsvaki\OneDrive\Documents\Application\Simple_Git\obj\Debug\net9.0\Application.xml
