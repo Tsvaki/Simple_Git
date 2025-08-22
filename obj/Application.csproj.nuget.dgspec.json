@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ronald Tsvaki\\OneDrive\\Documents\\Application\\Simple_Git\\Application.csproj": {}
+    "C:\\Users\\Ronald Tsvaki\\OneDrive\\Documents\\Application\\Simple_Git-1\\Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ronald Tsvaki\\OneDrive\\Documents\\Application\\Simple_Git\\Application.csproj": {
+    "C:\\Users\\Ronald Tsvaki\\OneDrive\\Documents\\Application\\Simple_Git-1\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ronald Tsvaki\\OneDrive\\Documents\\Application\\Simple_Git\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\Ronald Tsvaki\\OneDrive\\Documents\\Application\\Simple_Git-1\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\Ronald Tsvaki\\OneDrive\\Documents\\Application\\Simple_Git\\Application.csproj",
+        "projectPath": "C:\\Users\\Ronald Tsvaki\\OneDrive\\Documents\\Application\\Simple_Git-1\\Application.csproj",
         "packagesPath": "C:\\Users\\Ronald Tsvaki\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ronald Tsvaki\\OneDrive\\Documents\\Application\\Simple_Git\\obj\\",
+        "outputPath": "C:\\Users\\Ronald Tsvaki\\OneDrive\\Documents\\Application\\Simple_Git-1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ronald Tsvaki\\AppData\\Roaming\\NuGet\\NuGet.Config"
